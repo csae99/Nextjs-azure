@@ -1,2 +1,6 @@
 https://github.com/JavaScript-Mastery-Pro/e-commerce.git
 https://youtu.be/fZdTYswuZjU?si=CC3o8mv1jvmfU25v
+
+
+https://github.com/jigsrajwani/azure-deploy.git
+https://youtu.be/INVodizZQCY?si=ja4-xcVvwhGbXO4F
